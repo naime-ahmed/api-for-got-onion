@@ -1,0 +1,146 @@
+[
+  {
+    "id": "breakfast1",
+    "name": "Bagel and cream cheese",
+    "price": "$6.99",
+    "description": "m cheese is common in American cuisine, particularly in New York City.",
+    "img": "https://i.ibb.co/3Wjw0jG/breakfast1.png",
+    "details": "When it comes to the Popular Protein Awards, you can’t beat boneless, skinless chicken breasts They’re easy to find, endlessly versatile, healthy, and one of the most approved proteins by picky eaters."
+  },
+  {
+    "id": "breakfast2",
+    "name": "Breakfast sandwich",
+    "price": "$9.99",
+    "description": "A breakfast sandwich is any sandwich filled with foods associated with the breakfast meal.",
+    "img": "https://i.ibb.co/VmzsPxC/breakfast2.png",
+    "details": "When it comes to the Popular Protein Awards, you can’t beat boneless, skinless chicken breasts They’re easy to find, endlessly versatile, healthy, and one of the most approved proteins by picky eaters."
+  },
+  {
+    "id": "breakfast3",
+    "name": "Baked Chicken",
+    "price": "$10.99",
+    "description": "Enjoy these delicious baked chicken recipes that are perfect for any meal",
+    "img": "https://i.ibb.co/LS1rJ9V/breakfast3.png",
+    "details": "When it comes to the Popular Protein Awards, you can’t beat boneless, skinless chicken breasts They’re easy to find, endlessly versatile, healthy, and one of the most approved proteins by picky eaters."
+  },
+  {
+    "id": "breakfast4",
+    "name": "Eggs Benedict",
+    "price": "$8.99",
+    "description": "Spread toasted muffins with softened butter, and top each one with a slice of bacon, followed by one poached egg.",
+    "img": "https://i.ibb.co/tzR3xKB/breakfast4.png",
+    "details": "Hot buttered English muffins, Canadian-style bacon, and poached eggs are topped with a heavenly drizzle of hollandaise sauce. Wonderful for Easter, Mothers Day, or anytime you want to treat yourself to the best brunch in the world! Serve with roasted potatoes for mopping up the extra egg yolk and hollandaise. "
+  },
+  {
+    "id": "breakfast5",
+    "name": "Toast Croissant Fried egg",
+    "price": "$19.99",
+    "description": "op ham and cheese with a large scoop of scrambled eggs. Top with second half of the croissant buns.",
+    "img": "https://i.ibb.co/m00ZSRm/breakfast5.png",
+    "details": "Baked Croissant Breakfast Sandwiches made with fluffy and cheesy scrambled eggs, sliced ham, sharp cheddar cheese, on buttery croissants. Easy to make-ahead and freeze for grab-n-go meals too!"
+  },
+  {
+    "id": "breakfast6",
+    "name": "Full Breakfast Fried egg Brunch",
+    "price": "$3.99",
+    "description": "For the fried eggs, break the egg straight into the pan with the fried bread and leave for 30 seconds.",
+    "img": "https://i.ibb.co/7bkbg0v/breakfast6.png",
+    "details": "A proper fry-up is a very personal thing, so feel free to swap in and out what you like best. This full English breakfast could be topped up with baked beans, fried bread or hash browns."
+  },
+  {
+    "id": "lunch1",
+    "name": "Healthy Meal plan",
+    "price": "$23.99",
+    "description": "At Healthy Meal Plans, we understand that healthy actually means something different to everyone.",
+    "img": "https://i.ibb.co/wNCC7zG/lunch3.png",
+    "details": "Studying a few examples may make this whole meal planning thing easier, so heres a full week is worth. You do not need to follow the days in order; you can choose any meal plan, skip one, or repeat as you like."
+  },
+  {
+    "id": "lunch2",
+    "name": "Fried Chicken Bento",
+    "price": "$9.99",
+    "description": "When you make karaage for dinner, allocate a portion of the bite-size Japanese fried chicken for bento lunch box!",
+    "img": "https://i.ibb.co/dLntC5Y/lunch4.png",
+    "details": "Ever since I started Bento posts, a couple of my mommy friends had asked me how I make bento everyday. I get questions like “Do you cook bento in the morning?”, “What time do you wake up in the morning?”, “Does he eat everything?”…and so on. I thought you might be curious too, so here are my quick answers."
+  },
+  {
+    "id": "lunch3",
+    "name": "Tarragon-Rubbed-Salmon",
+    "price": "$6.99",
+    "description": "tarragon-rubbed salmon with nectarine salsa and grilled asparagus 305 Calories Food, Grilled Seafood. ",
+    "img": "https://i.ibb.co/h1ZDG8g/lunch5.png",
+    "details": "3 ounce-weight: 373 calories, 16g fat (4g saturated fat), 84mg cholesterol, 519mg sodium, 24g carbohydrate (10g sugars, 2g fiber), 32g protein. Diabetic Exchanges: 3 lean meat, 1-1/2 starch, 1-1/2 fat, 1 vegetable."
+  },
+  {
+    "id": "lunch4",
+    "name": "Indian Lunch",
+    "price": "$8.99",
+    "description": "Spread toasted muffins with softened butter, and top each one with a slice of bacon, followed by one poached egg.",
+    "img": "https://i.ibb.co/pR2L63r/lunch6.png",
+    "details": "Hot buttered English muffins, Canadian-style bacon, and poached eggs are topped with a heavenly drizzle of hollandaise sauce. Wonderful for Easter, Mothers Day, or anytime you want to treat yourself to the best brunch in the world! Serve with roasted potatoes for mopping up the extra egg yolk and hollandaise. "
+  },
+  {
+    "id": "lunch5",
+    "name": "Beef Steak ",
+    "price": "$15.99",
+    "description": "A simple but magical beef steak marinade to seriously transform good value steaks!",
+    "img": "https://i.ibb.co/tqcK7k5/lunch1.png",
+    "details": "Steaks are like wine – the more you spend, the better they are. Juicier, more flavour, more tender, no random bits of sinew throughout.And as much as we’d all like to be able to splurge on premium quality beef every time we have a hankering for steak, the reality is that most of us cannot!"
+  },
+  {
+    "id": "lunch6",
+    "name": "Honey-Soy-Glazed",
+    "price": "$7.99",
+    "description": "Honey-and-Soy-Glazed Chicken Thighs",
+    "img": "https://i.ibb.co/VtDhhwF/lunch2.png",
+    "details": "The sauce can be made ahead and refrigerated overnight; just rewarm it in the microwave or stovetop before using.If gluten is a concern, substitute the soy sauce with low-sodium tamari."
+  },
+  {
+    "id": "dinner1",
+    "name": "Salmon with Grapefruit",
+    "price": "$9.99",
+    "description": "Line a rimmed baking sheet with aluminum foil. Place salmon fillets on prepared sheet and season with salt and pepper",
+    "img": "https://i.ibb.co/KqzkQH4/dinner3.png",
+    "details": "While the salmon is cooking prepare the sauce. Cut 1 of the grapefruits into sections by cutting off the top and bottom of the fruit, then standing it on 1 end, cut down the skin to remove the pith and peel. Then, with a paring knife, remove each segment of fruit from its casing and cut the segments in half."
+  },
+  {
+    "id": "dinner2",
+    "name": "Lemony Salmon Piccata",
+    "price": "$10.99",
+    "description": "A lightened up, easy Salmon Piccata with all of the authentic Piccata flavours of white wine, capers, lemon and garlic.",
+    "img": "https://i.ibb.co/djg7VgG/dinner4.png",
+    "details": "Originally from Italy, Piccata is traditionally made with Veal. This may not be ‘the real deal’ or ‘the most authentic’ Piccata recipe due to being cooked with salmon, however, the unmistakeable Piccata flavours in this Salmon version are all right there in the skillet! After all, the flavour is all that matters when sitting down to enjoy a plate full of food. Yes?"
+  },
+  {
+    "id": "dinner3",
+    "name": "Beef Tender",
+    "price": "$10.99",
+    "description": "TENDER Steak & Seafood Las Vegas restaurant offers one of the most impressive",
+    "img": "https://i.ibb.co/TYMRGsC/dinner5.png",
+    "details": "Ever gone to a steakhouse and been paralyzed by choice between one cut of beef and another, relying simply on price to tell you if what you order is wise and will satisfy? True, finer cuts of meat will tend to be more expensive, but that’s not the only way to know you’ll be getting the dinner you dreamt about before sitting down at the restaurant table."
+  },
+  {
+    "id": "dinner4",
+    "name": "French fries with cheese",
+    "price": "$8.99",
+    "description": "This recipe starts with frozen french fries, which you will bake until they are golden brown and crispy",
+    "img": "https://i.ibb.co/BLFbDh2/dinner6.png",
+    "details": "These cheese fries are crispy french fries topped two types of melted cheese, smoky bacon and fresh herbs. A hearty appetizer option that takes just minutes to put together and is always a big hit! You can never go wrong with french fries, whether it’s sweet potato fries, carne asada fries, or these flavor packed cheese fries."
+  },
+  {
+    "id": "dinner5",
+    "name": "Garlic Butter baked salmon",
+    "price": "$6.99",
+    "description": "If you love salmon, you are going to LOVE this Easy Garlic Butter Baked Salmon recipe. ",
+    "img": "https://i.ibb.co/xDyjk6D/dinner1.png",
+    "details": "If you love salmon, you are going to LOVE this Easy Garlic Butter Baked Salmon recipe.  I love making salmon for a quick and healthy weeknight dinner.  Salmon is packed with nutrients and also cooks very quickly – not to mention, delicious.  I prefer to bake my salmon in the oven because it’s so much easier – instead of standing over a hot stove to sear the salmon, it roasts in the oven for 12-15 minutes. "
+  },
+  {
+    "id": "dinner6",
+    "name": "Baked Chicken",
+    "price": "$9.99",
+    "description": "Tender, juicy Baked Chicken Legs that are tossed in a delicious seasoning made with pantry staples then baked.",
+    "img": "https://i.ibb.co/JdhWLfr/dinner2.png",
+    "details": "We love chicken around here and there’s no shortage of chicken recipes on this site including these tender, juicy oven-baked chicken legs. If you’ve been wanting to switch out regular chicken breasts for something new, these crispy legs are the recipe to try! Baking chicken legs in the oven is so super easy (so are chicken thighs!). They’re first seasoned with spices and then all you do is pop them in the oven! "
+  }
+]
